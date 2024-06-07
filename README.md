@@ -12,6 +12,9 @@ python app.py
 
 To access your flask application open new tab in and paste the url:
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4944567832086548d9bea14c8ab40094f01d56b0
 ```
 # Diabetes-pridiction
